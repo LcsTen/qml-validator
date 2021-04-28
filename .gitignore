@@ -1,0 +1,5 @@
+*.o
+*.exe
+.qmake.stash
+Makefile
+qml-validator
